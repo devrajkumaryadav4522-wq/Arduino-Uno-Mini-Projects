@@ -2,7 +2,7 @@
 - This project demonstrates digital output control using Arduino Uno. An LED is programmed to turn ON and OFF at regular intervals using Arduino programming.
 
 #OBJECTIVE:
-TO design and implement a simple LED blinking system using Arduino Uno by controlling its digital output pin with fixed time delay.
+- TO design and implement a simple LED blinking system using Arduino Uno by controlling its digital output pin with fixed time delay.
 
 #COMPONENTS REQUIRED:
 - Arduino Uno
