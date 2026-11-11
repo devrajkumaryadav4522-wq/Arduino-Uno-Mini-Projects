@@ -12,11 +12,11 @@
 - jumper wires
 
 #WORKING PRINCIPLES:
-Arduino Uno configures digital pin 7 as an output.
-The LED turns ON when the output is HIGH.
-The Arduino waits for 1 second.
-The LED turns OFF when the output is LOW.
-The process repeats continuously.
+- Arduino Uno configures digital pin 7 as an output.
+- The LED turns ON when the output is HIGH.
+- The Arduino waits for 1 second.
+- The LED turns OFF when the output is LOW.
+- The process repeats continuously.
 
 #Author
 - Devraj Yadav
