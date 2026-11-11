@@ -1,3 +1,6 @@
+#PROJECT 01:
+- LED Blinking using Arduino Uno
+
 #PROJECT OVERVIEW:
 - This project demonstrates digital output control using Arduino Uno. An LED is programmed to turn ON and OFF at regular intervals using Arduino programming.
 
